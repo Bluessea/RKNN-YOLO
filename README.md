@@ -1,2 +1,2 @@
 # RKNN-YOLO
-Deploy Yolo series algorithms on Hisilicon platform rknn3399pro, including yolov5, yolox, etc
+Deploy Yolo series algorithms on rknn3399pro, including yolov5, yolox, etc
